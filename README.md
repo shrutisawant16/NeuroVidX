@@ -1,10 +1,13 @@
 # Fastest-Text-to-Image-Generator
-Fastest Text-to-Image Generator using fal ai.
+Fastest Text-to-Image and video Generator using Python.
 
+![Screenshot 2024-11-30 205113](https://github.com/user-attachments/assets/93dab9ca-e6e5-49a3-bc29-dc977c57262e)
 
+![Screenshot 2024-11-30 205956](https://github.com/user-attachments/assets/5e6eb7ef-06bf-4d60-9b45-9ef96afafc66)
 
-## Prerequisites:  
-[Fal AI](https://fal.ai/) API key (for model access)  
+![Screenshot 2024-11-30 204851](https://github.com/user-attachments/assets/640c44d4-f005-4146-803a-524bfd940dc1)
+
+![Screenshot 2024-11-30 205431](https://github.com/user-attachments/assets/2e02d413-6ae1-4874-a395-e07f6ee53258)
 
 
 
@@ -15,7 +18,7 @@ To get started with this project, you'll need to clone the repository and have [
 ### Install Dependencies :wrench: 
 Navigate to the project directory:
 ```
-cd Fastest-Text-to-Image-Generator
+cd
 ```
 
 Install the dependencies:
