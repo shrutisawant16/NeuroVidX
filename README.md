@@ -1,4 +1,4 @@
-# Fastest-Text-to-Image-Generator
+# NeuroVidX
 Fastest Text-to-Image and video Generator using Python.
 
 ![Screenshot 2024-11-30 205113](https://github.com/user-attachments/assets/93dab9ca-e6e5-49a3-bc29-dc977c57262e)
